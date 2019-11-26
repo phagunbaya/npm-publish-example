@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/phagunbaya/npm-publish-example#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/phagunbaya"
   }
 }
