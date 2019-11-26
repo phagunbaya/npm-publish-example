@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/phagunbaya/npm-publish-example/issues"
   },
-  "homepage": "https://github.com/phagunbaya/npm-publish-example#readme"
+  "homepage": "https://github.com/phagunbaya/npm-publish-example#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
