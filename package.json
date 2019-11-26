@@ -1,6 +1,6 @@
 {
-  "name": "npm-publish-example",
-  "version": "1.0.0",
+  "name": "@phagunbaya/npm-publish-example",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/phagunbaya/npm-publish-example#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/phagunbaya"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
